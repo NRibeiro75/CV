@@ -16,11 +16,11 @@ function App() {
     cvTemplate.setAttribute("style", "width:210mm !important")
     cvTemplate.classList.add("cv-print")
     document.body.classList.remove("dark")
+    
     setTimeout( () => {
       print("cv", "cv-print")
       cvTemplate.setAttribute("style", "width:100% !important")
       cvTemplate.classList.remove("cv-print")
-    
     },300)
   }
   return (

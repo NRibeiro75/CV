@@ -5,6 +5,7 @@
 .user__avatar { 
     border-radius: 50%;
     width: 50%;
+    box-shadow: 0px 0px 10px 4px #00000059;
 }
 
 .user__infos {
@@ -12,7 +13,45 @@
     padding: var(--spacing-3) 0 var(--spacing-1) 0;
 }
 
-.user__infos svg {
+.user__info svg {
     color: var(--icone-color);
     margin-right: 1rem;
+}
+
+.user__info {
+    display: flex;
+    align-items: center;
+    margin-bottom: .3rem;
+}
+
+.dark .user__info svg {
+    color: var(--dark-icon-color);
+}
+
+.user__social{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.linkedin{
+    color: var(--icone-color-linkedin);
+}
+.instagram {
+    
+    background: var(--icone-color-instagram);
+    border-radius: 30%;
+    height: 24px;
+    color: white;
+    /* -webkit-background-clip: text; */
+    /* -webkit-text-fill-color: transparent; */
+}
+    
+    
+
+.facebook {
+    color: var(--icone-color-facebook);
+}
+.twitter{
+    color: var(--icone-color-twitter);
+    
 }

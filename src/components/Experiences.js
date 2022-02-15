@@ -12,7 +12,7 @@ function Experiences({ datas }) {
                 <p className="grid__date">{item.date}</p>
             </div>
             <div className="grid__item">
-                <h3 className="grid__text">{item.text}</h3>
+                <p className="grid__text">{item.text}</p>
                 <p className="grid__location">{item.location}</p>
             </div>
         </div>

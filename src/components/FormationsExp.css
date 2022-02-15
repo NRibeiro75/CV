@@ -1,9 +1,9 @@
 .grid__item {
     margin-bottom: var(--spacing-1);
 }
-.grid__date{
+/* .grid__date{
     font-weight: 500;
-}
+} */
 /* .grid__title {
     margin-bottom: 0;
 } */

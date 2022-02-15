@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function interests() {
   return (
     <div className="skills">
@@ -13,7 +14,7 @@ function interests() {
             <li>Street Art</li>
         </ul>
     </div>
-  )
+ )    
 }
 
 export default interests
