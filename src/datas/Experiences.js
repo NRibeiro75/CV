@@ -3,7 +3,7 @@ export const dataExperiences = [
       id: 1,
       employer: "Richard Attias & Associates",
       date: "2017-2020",
-      title: "Regiseseur Plateau",
+      title: "Regisseur Plateau",
       text: `Responsable de la mise en place de la scène et du lieu accueillant l’événement.
       En charge de la gestion des speakers et des invités VIP pour des événements internationaux.
       Assure le bon déroulement de l’événement.`,
@@ -12,7 +12,7 @@ export const dataExperiences = [
     {
       id: 2,
       date: "2015-2017",
-      title: "Regiseseur Salle",
+      title: "Regisseur Salle",
       text: `Participe à la mise en place de la salle accueillant l’événement.
       Accueil des participants et gestion des hôtesses d’accueil. Assure le bon fonctionnement des équipements.`,
     },
