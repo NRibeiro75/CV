@@ -52,6 +52,7 @@ body {
   font-weight: 400;
   color: var(--text-color);
   background-color: var(--body--bg-color);
+  
 }
 .dark{
   color: var(--dark-text-color);
@@ -131,7 +132,9 @@ li {
     grid-template-columns: 1fr 2fr;
     margin: 0;
 }
+
 }
+
 
 /* layout */
 

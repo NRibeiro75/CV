@@ -19,7 +19,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 function User() {
   return (
     <div className="user">
-      <img src="./images/moi.jpg" alt="avatar" className="user__avatar" />
+      <img src="./images/id.png" alt="avatar" className="user__avatar" />
       <h1 className="user__name">Nicolas Ribeiro</h1>
       <p className="user__profession">Développeur Web</p>
       <div className="user__infos">
