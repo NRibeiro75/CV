@@ -7,6 +7,7 @@ import EventIcon from '@mui/icons-material/Event'
 import LocationOnIcon from '@mui/icons-material/LocationOn'
 
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import GitHubIcon from '@mui/icons-material/GitHub';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import TwitterIcon from '@mui/icons-material/Twitter';
@@ -46,6 +47,10 @@ function User() {
 
         <p className="linkedin">
          <a href="https://www.linkedin.com/in/nicolas-ribeiro-11407b129/" target="blank"> <LinkedInIcon /></a>
+        </p>
+
+        <p className="github">
+         <a href="https://github.com/NRibeiro75" target="blank"> <GitHubIcon /></a>
         </p>
 
         <p className="instagram">

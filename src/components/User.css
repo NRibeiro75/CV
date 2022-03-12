@@ -36,6 +36,13 @@
 .linkedin{
     color: var(--icone-color-linkedin);
 }
+
+.github{
+    background-color:var(--icone-color-github);
+    color: white;
+    clip-path: circle(50%);
+    height: 24px;    
+}
 .instagram {
     
     background: var(--icone-color-instagram);
@@ -46,8 +53,6 @@
     /* -webkit-text-fill-color: transparent; */
 }
     
-    
-
 .facebook {
     color: var(--icone-color-facebook);
 }
