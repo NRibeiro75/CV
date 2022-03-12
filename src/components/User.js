@@ -53,7 +53,7 @@ function User() {
         </p>
 
         <p className="facebook">
-          <a href="hhttps://www.facebook.com/nicolas.ribeiro" target="blank"> <FacebookIcon /></a>
+          <a href="https://www.facebook.com/nicolas.ribeiro" target="blank"> <FacebookIcon /></a>
         </p>
 
         <p className="twitter">
