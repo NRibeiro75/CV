@@ -4,7 +4,7 @@ function Formations({ datas }) {
     console.log(datas)
   return (
     <div className="cursus mb3">
-        <h2 className="h2">Formations</h2>
+        <h2 className="h2">Trainings And Diplomas</h2>
         {datas.map(item =>  
         <div className="grid__row" key={item.id}>
             <div className="grid__item">

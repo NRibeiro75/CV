@@ -4,7 +4,7 @@ function Experiences({ datas }) {
     console.log(datas)
   return (
     <div className="cursus mb3">
-        <h2 className="h2">Experiences Professionnelles</h2>
+        <h2 className="h2">Professional Experience</h2>
         {datas.map(item =>  
         <div className="grid__row" key={item.id}>
             <div className="grid__item">

@@ -7,7 +7,7 @@ function Skills() {
   return(
   <>
     <div className="skills">
-        <h2 className="h2">Compétences</h2>
+        <h2 className="h2">Skills</h2>
         <Skill title="HTML" rating="4" />
         <Skill title="CSS" rating="4" />
         <Skill title="JAVASCRIPT" rating="3" />
@@ -15,7 +15,7 @@ function Skills() {
     </div>
 
     <div className="skills">
-        <h2 className="h2">Langues</h2>
+        <h2 className="h2">Languages</h2>
         <Skill title="FRANCAIS" rating="5" />
         <Skill title="ANGLAIS" rating="4" />
         <Skill title="PORTUGAIS" rating="5" />

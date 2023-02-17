@@ -4,13 +4,13 @@ import React from 'react'
 function interests() {
   return (
     <div className="skills">
-        <h2 className="h2">Centres D'Intérêts</h2>
+        <h2 className="h2">Interests</h2>
         <ul>
-            <li>Musique</li>
-            <li>Informatique, Gaming</li>
-            <li>Sport</li>
+            <li>Music</li>
+            <li>computer, Gaming</li>
+            <li>Sports</li>
             <li>Streetwear, Sneakers</li>
-            <li>Voyages</li>
+            <li>Travel</li>
             <li>Street Art</li>
         </ul>
     </div>

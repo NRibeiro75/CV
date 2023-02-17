@@ -3,18 +3,18 @@ export const dataExperiences = [
       id: 1,
       employer: "Richard Attias & Associates",
       date: "2017-2020",
-      title: "Regisseur Plateau",
-      text: `Responsable de la mise en place de la scène et du lieu accueillant l’événement.
-      En charge de la gestion des speakers et des invités VIP pour des événements internationaux.
-      Assure le bon déroulement de l’événement.`,
+      title: "Stage manager",
+      text: `Responsible for setting up the stage and venue hosting the event.
+      In charge of managing speakers and VIP guests for international events.
+      Ensure the smooth running of the event.`,
     },
     
     {
       id: 2,
       date: "2015-2017",
-      title: "Regisseur Salle",
-      text: `Participe à la mise en place de la salle accueillant l’événement.
-      Accueil des participants et gestion des hôtesses d’accueil. Assure le bon fonctionnement des équipements.`,
+      title: "Room Monitor",
+      text: `Participate in the setting up of the room hosting the event.
+      Reception of participants and management of hostesses. Ensures the proper functioning of equipment.`,
     },
       
       
@@ -22,9 +22,9 @@ export const dataExperiences = [
     {
       id: 2,
       employer: "Restaurant Le Petit Marché",
-      date: "2017-2020",
+      date: "2017-2021",
       location: "Paris",
-      text: `Extras en tant que Chef de Rang.`,
+      text: `Head Waiter.`,
       
     },
     {
@@ -32,15 +32,15 @@ export const dataExperiences = [
       employer: "L’Hôtel Particulier Montmartre",
       date: "2014-2016",
       location: "Paris",
-      text: `CDI en tant que Chef de Rang.`,
+      text: `Head Waiter.`,
       
     },
     {
       id: 4,
       employer: "Restaurant Le Square Trousseau",
-      date: "2011-2014",
+      date: "2010-2014",
       location: "Paris",
-      text: `CDI en tant que Barman.`,
+      text: `Barman And Waiter.`,
       
     },
   ]

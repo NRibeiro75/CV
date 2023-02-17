@@ -22,16 +22,16 @@ function User() {
     <div className="user">
       <img src="./images/id.png" alt="avatar" className="user__avatar" />
       <h1 className="user__name">Nicolas Ribeiro</h1>
-      <p className="user__profession">Développeur Web</p>
+      {/* <p className="user__profession">Développeur Web</p> */}
       <div className="user__infos">
 
         <p className="user__info">
-          <HomeIcon /> 12 Rue De Clichy 75009 Paris
+          <HomeIcon /> 73 Orchard St,New York,NY 10002
         </p>
 
         <p className="user__info">
           <PhoneIphoneIcon /> 
-          <a href="tel:+33663934633">0663934633</a>
+          <a href="tel:+1(929) 648-7819">+1(929) 648-7819</a>
         </p>
 
         <p className="user__info">
@@ -39,8 +39,8 @@ function User() {
           <a href="mailto:nicolasribeiro75@gmail.com" target="blank">nicolasribeiro75@gmail.com</a>
           </p>
 
-        <p className="user__info"> <EventIcon /> Date De Naissance : 10 Décembre 1988</p>
-        <p className="user__info"> <LocationOnIcon /> Lieu De Naissance : Paris</p>
+        <p className="user__info"> <EventIcon /> Date Of Birth : 10 Décembre 1988</p>
+        <p className="user__info"> <LocationOnIcon /> Place Of Birth : Paris</p>
       </div>
 
       <div className="user__social">
