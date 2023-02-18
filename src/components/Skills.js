@@ -19,7 +19,7 @@ function Skills() {
         <Skill title="FRANCAIS" rating="5" />
         <Skill title="ANGLAIS" rating="4" />
         <Skill title="PORTUGAIS" rating="5" />
-        <Skill title="ESPAGNOL" rating="3" />
+        <Skill title="ESPAGNOL" rating="2" />
     </div>
     <Interests />
   </>

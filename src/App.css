@@ -130,14 +130,14 @@ li {
 @media screen and (min-width: 768px) {
   .grid__container{
   display: grid;
-  grid-template-columns: 1fr 3fr;
-}
-.grid__row{
+  grid-template-columns: 71ch auto;
+  }
+  .grid__row{
     display: grid;
     grid-template-columns: 1fr 2fr;
     margin: 0;
-}
-
+  }
+  
 }
 
 
@@ -146,6 +146,7 @@ li {
 .sidebar{
   padding:1.5rem;
   background-color: var(--sidebar--bg-color);
+  /* margin-right: -10px; */
 }
 
 .dark .sidebar{
@@ -212,9 +213,10 @@ li {
 .cv-print .grid__container {
   font-size:12px !important;
   max-width: 210mm;
+  
 }
 .cv-print .sidebar {
-  height: 297mm;
+  width: 300px;
 }
 .cv-print .user__infos svg {
   display: none !important;
@@ -229,3 +231,4 @@ li {
 .cv-print .grid__date {
   margin-top:5px;
 }
+
