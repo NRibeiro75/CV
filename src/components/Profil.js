@@ -5,11 +5,12 @@ function Profil() {
     <div className="profil mb5">
         <h2 className="h2">Profil</h2>
         <p>
-        I am of Franco-Portuguese origin, passionate about travel, music and sneakers.<br />
-        I work for a long time in the catering and event sectors.<br />
-        My natural dynamic, motivated and curious are assets to help me meet all challenges and particularly new experiences like this one.<br />
-        I like to work in a team and take up challenges but also know how to be autonomous.<br />
-        I can't wait to join a new team!
+        I am Franco-Portuguese, passionate about travel, music, sneakers and gastronomies.<br />
+        I have been working for twelve years in the catering and seven years in the event industies.<br />
+        I am dynamic, motivated and curious,always willing to embrace a new challenge and learn new skills.<br />
+        My experience working in Paris renowned restaurants will be an asset to join your team.<br />
+        I am a team player, always wiiling to support my colleagues in order to deliver the best experience and service to the guests.<br />
+        I can't wait to join your team!
         
         </p>
     </div>
