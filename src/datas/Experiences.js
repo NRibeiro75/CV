@@ -20,13 +20,24 @@ export const dataExperiences = [
       
     
     {
-      id: 2,
+      id: 1,
       employer: "Restaurant Le Petit Marché",
-      date: "2017-2021",
+      date: "2019-2021",
       location: "Paris",
       text: `Head Waiter.`,
       
     },
+
+    {
+      id: 2,
+      employer: "Restaurant Chez Janou",
+      date: "2017-2019",
+      location: "Paris",
+      text: `Head Waiter.`,
+      
+    },
+
+
     {
       id: 3,
       employer: "L’Hôtel Particulier Montmartre",
