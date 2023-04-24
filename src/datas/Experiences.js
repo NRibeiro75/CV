@@ -2,7 +2,7 @@ export const dataExperiences = [
     {
       id: 1,
       employer: "Richard Attias & Associates",
-      date: "2017-2020",
+      date: "2017-2023",
       title: "Stage manager",
       text: `Responsible for setting up the stage and venue hosting the event.
       In charge of managing speakers and VIP guests for international events.
