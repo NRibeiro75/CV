@@ -10,7 +10,7 @@ const dataFormations = [
         id:2,
         school:"ESRA",
         title:"2eme Année en ISTS (Institut Supérieur des Technique du Son)",
-        date:"2009-2010",
+        date:"2008-2010",
         location: "Paris",
     },
     {
