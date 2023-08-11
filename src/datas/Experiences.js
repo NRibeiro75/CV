@@ -24,7 +24,12 @@ export const dataExperiences = [
       employer: "Restaurant Le Petit Marché",
       date: "2019-2021",
       location: "Paris",
-      text: `Head Waiter.`,
+      title: "Head Waiter.",
+      // text: `Responsible for a group of tables, Set up the tables before each service, Check the cleanliness and integrity of crockery and cutlery,
+      // Set up service consoles, Welcome and accompany the customer to his table,Present the menu and the wine list, Food and wine pairing,
+      // Answer customer questions, Take the order and send it to the kitchen,
+      // Check the smooth running of the service, Ask about customer satisfaction during and at the end of the meal,
+      // Edit bill, Carry out the collection, Clear the tables.`
       
     },
 
@@ -33,7 +38,12 @@ export const dataExperiences = [
       employer: "Restaurant Chez Janou",
       date: "2017-2019",
       location: "Paris",
-      text: `Head Waiter.`,
+      title: "Head Waiter.",
+      // text: `Responsible for a group of tables, Set up the tables before each service, Check the cleanliness and integrity of crockery and cutlery,
+      // Set up service consoles, Welcome and accompany the customer to his table,Present the menu and the wine list, Food and wine pairing,
+      // Answer customer questions, Take the order and send it to the kitchen,
+      // Check the smooth running of the service, Ask about customer satisfaction during and at the end of the meal,
+      // Edit bill, Carry out the collection, Clear the tables.`
       
     },
 
@@ -43,7 +53,12 @@ export const dataExperiences = [
       employer: "L’Hôtel Particulier Montmartre",
       date: "2014-2016",
       location: "Paris",
-      text: `Head Waiter.`,
+      title: "Head Waiter.",
+      // text: `Responsible for a group of tables, Set up the tables before each service, Check the cleanliness and integrity of crockery and cutlery,
+      // Set up service consoles, Welcome and accompany the customer to his table,Present the menu and the wine list, Food and wine pairing,
+      // Answer customer questions, Take the order and send it to the kitchen,
+      // Check the smooth running of the service, Ask about customer satisfaction during and at the end of the meal,
+      // Edit bill, Carry out the collection, Clear the tables.`
       
     },
     {
@@ -51,7 +66,7 @@ export const dataExperiences = [
       employer: "Restaurant Le Square Trousseau",
       date: "2010-2014",
       location: "Paris",
-      text: `Barman And Waiter.`,
+      title: "Barman And Waiter.",
       
     },
   ]

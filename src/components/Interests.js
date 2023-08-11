@@ -12,6 +12,7 @@ function interests() {
             <li>Streetwear, Sneakers</li>
             <li>Travel</li>
             <li>Street Art</li>
+            <li>Gastronomy</li>
         </ul>
     </div>
  )    

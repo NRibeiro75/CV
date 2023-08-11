@@ -1,14 +1,30 @@
 .grid__item {
     margin-bottom: var(--spacing-1);
 }
-/* .grid__date{
-    font-weight: 500;
-} */
-/* .grid__title {
-    margin-bottom: 0;
-} */
+
 .grid__location {
     font-weight: 300;
     color: var(--date-color);
+    margin: 0;
+}
+.grid__text {
+    font-size: small;
+    margin-bottom: 0;
 }
 
+.grid__employer {
+    margin: 0;
+}
+
+.grid__school {
+    margin-right: var(--spacing-2);
+    margin-bottom: 0;
+}
+
+.grid__date {
+    margin-bottom: 0;
+}
+
+.grid__title {
+    margin-bottom: 0;
+}
